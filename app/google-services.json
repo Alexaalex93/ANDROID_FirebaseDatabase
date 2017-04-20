@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "703416980138",
+    "firebase_url": "https://androidfirebasedatabase-219ae.firebaseio.com",
+    "project_id": "androidfirebasedatabase-219ae",
+    "storage_bucket": "androidfirebasedatabase-219ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703416980138:android:01a99296ede157d9",
+        "android_client_info": {
+          "package_name": "com.example.alex.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703416980138-angb1pclvk1k5npe36dfeoeq5oqgtc2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCg9wkZuHTlBEHTcvAmfW2GNHtiEa_6Xw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
